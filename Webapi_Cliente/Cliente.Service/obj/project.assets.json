@@ -8110,11 +8110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj",
       "projectName": "Webapi_Cliente.Service",
-      "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj",
+      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Cliente.Service\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Cliente.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8133,8 +8133,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteInfra\\Webapi_Cliente.Infra.csproj": {
-              "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteInfra\\Webapi_Cliente.Infra.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteInfra\\Webapi_Cliente.Infra.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteInfra\\Webapi_Cliente.Infra.csproj"
             }
           }
         }

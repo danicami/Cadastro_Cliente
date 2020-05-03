@@ -12,3 +12,17 @@ D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Web
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.csproj.CopyComplete
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.dll
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.deps.json
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteInfra\obj\Debug\netcoreapp2.2\Webapi_Cliente.Infra.pdb

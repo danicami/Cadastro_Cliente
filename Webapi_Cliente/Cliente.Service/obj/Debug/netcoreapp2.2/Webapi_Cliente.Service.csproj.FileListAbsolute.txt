@@ -12,3 +12,17 @@ D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.csproj.CopyComplete
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.dll
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Service.deps.json
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Service.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Service.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Webapi_Cliente.Service.pdb

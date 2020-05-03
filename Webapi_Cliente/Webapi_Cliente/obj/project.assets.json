@@ -8912,11 +8912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Webapi_Cliente\\Webapi_Cliente.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Webapi_Cliente\\Webapi_Cliente.csproj",
       "projectName": "Webapi_Cliente",
-      "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Webapi_Cliente\\Webapi_Cliente.csproj",
+      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Webapi_Cliente\\Webapi_Cliente.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Webapi_Cliente\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Webapi_Cliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8935,11 +8935,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj": {
-              "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\Cliente.Service\\Webapi_Cliente.Service.csproj"
             },
-            "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj": {
-              "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj"
             }
           }
         }

@@ -7706,11 +7706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj",
       "projectName": "Webapi_Cliente.Domain",
-      "projectPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj",
+      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteDomain\\Webapi_Cliente.Domain.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\Daniela\\Cursos\\Praxio\\Webapi_Cliente\\ClienteDomain\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Cadastro_Cliente\\Webapi_Cliente\\ClienteDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
