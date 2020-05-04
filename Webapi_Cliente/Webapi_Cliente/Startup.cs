@@ -28,7 +28,7 @@ namespace Webapi_Cliente
             services.AddDbContext<ApplicationContext>(options =>
                 options.UseInMemoryDatabase (connection)
             );
-            services.AddScoped<IService<Cliente>, ClienteService<Cliente>>();
+            services.AddScoped<IService<Cliente>, BaseService<Cliente>>();
             services.AddScoped<IRepository<Cliente>, BaseRepository<Cliente>>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

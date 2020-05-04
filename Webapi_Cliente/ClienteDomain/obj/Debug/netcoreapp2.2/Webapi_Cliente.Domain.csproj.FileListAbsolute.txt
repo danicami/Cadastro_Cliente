@@ -7,3 +7,12 @@ D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\We
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.AssemblyInfo.cs
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
 D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.deps.json
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+C:\Users\alexa\Documents\GitHub\Cadastro_Cliente\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb

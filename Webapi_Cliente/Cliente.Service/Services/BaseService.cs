@@ -6,12 +6,12 @@ using Webapi_Cliente.Domain.Interface;
 
 namespace Webapi_Cliente.Service.Services
 {
-    public class ClienteService<T> : IService<T> where T : BaseEntity
+    public class BaseService<T> : IService<T> where T : BaseEntity
     {
  
         private readonly IRepository<T> repository;
 
-        public ClienteService(IRepository<T> _repository)
+        public BaseService(IRepository<T> _repository)
         {
             repository = _repository;
 
